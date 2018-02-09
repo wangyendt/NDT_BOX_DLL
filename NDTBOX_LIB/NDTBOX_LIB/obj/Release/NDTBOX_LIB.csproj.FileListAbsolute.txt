@@ -1,0 +1,6 @@
+E:\Programmes\CSharpDll\NDTBOX_LIB\NDTBOX_LIB\obj\Release\NDTBOX_LIB.csprojResolveAssemblyReference.cache
+E:\Programmes\CSharpDll\NDTBOX_LIB\NDTBOX_LIB\obj\Release\NDTBOX_LIB.csproj.CoreCompileInputs.cache
+E:\Programmes\CSharpDll\NDTBOX_LIB\NDTBOX_LIB\bin\Release\NDTBOX_LIB.dll
+E:\Programmes\CSharpDll\NDTBOX_LIB\NDTBOX_LIB\bin\Release\NDTBOX_LIB.pdb
+E:\Programmes\CSharpDll\NDTBOX_LIB\NDTBOX_LIB\obj\Release\NDTBOX_LIB.dll
+E:\Programmes\CSharpDll\NDTBOX_LIB\NDTBOX_LIB\obj\Release\NDTBOX_LIB.pdb
